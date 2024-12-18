@@ -1,0 +1,5 @@
+# Outros arquivos temporários ou específicos do editor
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
